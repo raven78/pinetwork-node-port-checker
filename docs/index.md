@@ -27,7 +27,7 @@ Your local IP is the IP you set as static for the computer that run Pi Network N
 
 Write or paste your IP in the input field at the top and press <key>Enter</key> or click on the Check button next to it.
 
-Now you can use the [Check Ports](https://raven78.github.io/pinetwork-node-port-checker/checkports.html) 
+Now you can use the [Check Ports](https://raven78.github.io/pi-node-port-checker/checkports.html) 
 
 _**Good luck to you all!**_
 
