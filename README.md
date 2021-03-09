@@ -1,4 +1,4 @@
-# pinetwork-node-port-checker
+# pi-node-port-checker
 
 A small utility page that helps you to check if required ports for PI Network node are open for WAN/LAN IP's.
 
