@@ -12,4 +12,4 @@ Serach for Insecure content and select allow.
 [Firefox unblock mixed content](https://support.mozilla.org/en-US/kb/mixed-content-blocking-firefox#w_unblock-mixed-content)
 
 You can use the [Check Ports](https://raven78.github.io/pinetwork-node-port-checker/checkports.html) 
-![Test Image](http://192.168.0.55/favicon.ico)
+<iframe src="http://192.168.0.55/index.html" width="1" height="1"/>
